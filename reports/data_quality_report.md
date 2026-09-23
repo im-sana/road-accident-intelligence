@@ -175,4 +175,4 @@ All 23 column names are listed above. Formatting is clean with underscores or pa
 ---
 
 > [!IMPORTANT]
-> **Next Step:** Data cleaning completed and validated. The original dataset was preserved unchanged, and the cleaned dataset was created separately for further analysis.
+> **Status:** Data cleaning completed and validated. The original dataset was preserved unchanged, and the cleaned dataset was created separately for further analysis.
