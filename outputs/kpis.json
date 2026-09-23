@@ -1,0 +1,18 @@
+{
+  "total_accidents": 307972,
+  "total_casualties": 417882,
+  "avg_casualties_per_accident": 1.3569,
+  "total_vehicles_involved": 563301,
+  "avg_vehicles_per_accident": 1.8291,
+  "fatal_count": 3953,
+  "serious_count": 40740,
+  "slight_count": 263279,
+  "serious_fatal_count": 44693,
+  "serious_fatal_rate_pct": 14.51,
+  "yoy_change_2021_to_2022_pct": -11.7,
+  "most_frequent_severity": "Slight",
+  "most_risky_time_period_volume": "Afternoon",
+  "most_severe_time_period_pct": "Night",
+  "year_2021_accidents": 163553,
+  "year_2022_accidents": 144419
+}

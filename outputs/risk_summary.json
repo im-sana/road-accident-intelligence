@@ -1,0 +1,106 @@
+{
+  "weather": {
+    "total": {
+      "Fine + high winds": 3148,
+      "Fog or mist": 1690,
+      "Fine no high winds": 244495,
+      "Raining + high winds": 3526,
+      "Raining no high winds": 34877,
+      "Snowing + high winds": 538,
+      "Other": 8802,
+      "Snowing no high winds": 4839
+    },
+    "serious_fatal": {
+      "Fine + high winds": 487,
+      "Fog or mist": 256,
+      "Fine no high winds": 36922,
+      "Raining + high winds": 490,
+      "Raining no high winds": 4486,
+      "Snowing + high winds": 62,
+      "Other": 988,
+      "Snowing no high winds": 449
+    },
+    "severe_rate_pct": {
+      "Fine + high winds": 15.47,
+      "Fog or mist": 15.15,
+      "Fine no high winds": 15.1,
+      "Raining + high winds": 13.9,
+      "Raining no high winds": 12.86,
+      "Snowing + high winds": 11.52,
+      "Other": 11.22,
+      "Snowing no high winds": 9.28
+    }
+  },
+  "surface": {
+    "total": {
+      "Flood over 3cm. deep": 374,
+      "Dry": 208967,
+      "Wet or damp": 81479,
+      "Frost or ice": 12077,
+      "Snow": 4758
+    },
+    "serious_fatal": {
+      "Flood over 3cm. deep": 66,
+      "Dry": 31385,
+      "Wet or damp": 11376,
+      "Frost or ice": 1375,
+      "Snow": 471
+    },
+    "severe_rate_pct": {
+      "Flood over 3cm. deep": 17.65,
+      "Dry": 15.02,
+      "Wet or damp": 13.96,
+      "Frost or ice": 11.39,
+      "Snow": 9.9
+    }
+  },
+  "light": {
+    "total": {
+      "Darkness - no lighting": 16528,
+      "Darkness - lights lit": 60093,
+      "Darkness - lights unlit": 1142,
+      "Daylight": 227285,
+      "Darkness - lighting unknown": 2924
+    },
+    "serious_fatal": {
+      "Darkness - no lighting": 3727,
+      "Darkness - lights lit": 9377,
+      "Darkness - lights unlit": 161,
+      "Daylight": 31043,
+      "Darkness - lighting unknown": 385
+    },
+    "severe_rate_pct": {
+      "Darkness - no lighting": 22.55,
+      "Darkness - lights lit": 15.6,
+      "Darkness - lights unlit": 14.1,
+      "Daylight": 13.66,
+      "Darkness - lighting unknown": 13.17
+    }
+  },
+  "speed": {
+    "total": {
+      "60": 46826,
+      "50": 10190,
+      "70": 22362,
+      "40": 25650,
+      "20": 2899,
+      "30": 200040
+    },
+    "serious_fatal": {
+      "60": 10130,
+      "50": 1684,
+      "70": 3212,
+      "40": 3663,
+      "20": 391,
+      "30": 25613
+    },
+    "severe_rate_pct": {
+      "60": 21.63,
+      "50": 16.53,
+      "70": 14.36,
+      "40": 14.28,
+      "20": 13.49,
+      "30": 12.8
+    }
+  }
+}
